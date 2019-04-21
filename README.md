@@ -43,7 +43,7 @@ Issue立ててください。
 [Re:VIEWチートシート](https://gist.github.com/erukiti/c4e3189dda179a0f0b73299fb5787838) を作ってくれたみたので、参考にしてみてください。
 
 ## CI
-https://app.wercker.com/oyakata2438/Onestop-meeting/runs
+https://app.wercker.com/oyakata2438/Onestop-timeManagement/runs
 でPDFが書きだされます。
 一番上のBuildをクリックすると展開されるので、
 Output Artifactをクリックして、Download artifactをクリックすると、
