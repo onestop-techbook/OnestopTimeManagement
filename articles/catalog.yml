@@ -5,9 +5,11 @@ PREDEF:
 CHAPS:
   # 各自書きたい内容とファイル名を追加していく
 
-  # カジュアルに名刺を作ろう
-  - chap-oyakata-meishi.re
+  # 子供と一緒に時間を作る
   - chap-lean-with-kid.re
+
+  # アンケートまとめ
+  - chap-survey.re
     
 APPENDIX:
 
